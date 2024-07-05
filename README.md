@@ -1,6 +1,5 @@
-
-### <div align="center">I'm Karun, a full-time full-stack freelance developer 👨‍💻 A passionate Instrumentation Engineer with exciting software enthusiasm 🚀</div>  
-  
+<h1 align="center">Hi 👋, I'm Karun</h1>
+<h3 align="center">A passionate Instrumentation Engineer with exciting software enthusiam</h3>
 
 - 🔭 I’m currently working on [Book Management System](https://github.com/KARUNGOVIND/MERN_BookManagement)  
   
