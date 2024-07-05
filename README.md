@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://drive.google.com/file/d/1G6MxaggBNWH92kQVw-pqlJxm_xqRnHTd/view?usp=drive_link" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Karun, a full-time full-stack freelance developer 👨‍💻 A passionate Instrumentation Engineer with exciting software enthusiasm 🚀</div>  
   
